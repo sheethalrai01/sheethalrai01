@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi, I'm Sheethal 👋
+🎯 Aspiring Machine Learning Engineer from India
 
-<!--
-**sheethalrai01/sheethalrai01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently learning
+Python programming
+Mathematics for Machine Learning
+Machine Learning fundamentals
+Career Goal
+To become a high-paying Machine Learning Engineer and build real-world AI systems.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Learning Journey
+Started with Python basics
+Building strong foundations in math and ML
+Will be uploading projects and notes regularly
+Skills I'm working on
+Python
+Data Structures
+Statistics
+Machine Learning
+2026 Goals
+Upload ML projects
+Implement ML algorithms from scratch
+Become job-ready for ML roles
