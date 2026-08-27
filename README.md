@@ -52,9 +52,10 @@ Git · GitHub · VS Code
 | ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
 | **AI-Powered PDF Learning & Assessment Platform** | An AI-based learning platform that analyzes study material, identifies important topics, generates notes and questions, creates tests, and provides performance analysis. | Python · FastAPI · React · PostgreSQL · Gemini API |
 | **AI Resume Analyzer**                            | An AI-powered application that analyzes resumes and extracts relevant information to assist with resume evaluation.                                                       | Python · AI                                        |
+| **AI Medical Symptom Checker**                    | An AI-powered application that analyzes user-provided symptoms and provides preliminary health-related information and guidance.                                          | Python · AI                                        |
 | **OTP Authentication System**                     | A secure authentication system with registration, login, and email-based OTP verification.                                                                                | React · Spring Boot · MySQL                        |
 | **Attendance Analytics Portal**                   | A web application for recording attendance and visualizing attendance trends and reports.                                                                                 | React · Spring Boot · MySQL                        |
-| **Library Management System**                     | A system designed to manage library records, books, and user-related operations.                                                                                          | Programming · Database                             |
+
 
 ---
 
